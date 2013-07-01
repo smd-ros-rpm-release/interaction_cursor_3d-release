@@ -1,0 +1,12 @@
+Source: ros-groovy-interaction-cursor-demo
+Section: misc
+Priority: extra
+Maintainer: "Adam Leeper <adamleeper@gmail.com>"
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-catkin, ros-groovy-geometry-msgs, ros-groovy-interaction-cursor-msgs, ros-groovy-razer-hydra, ros-groovy-roscpp, ros-groovy-std-msgs, ros-groovy-tf
+Homepage: http://www.ros.org/wiki/interaction_cursor_demo
+Standards-Version: 3.9.2
+
+Package: ros-groovy-interaction-cursor-demo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-geometry-msgs, ros-groovy-interaction-cursor-msgs, ros-groovy-razer-hydra, ros-groovy-roscpp, ros-groovy-std-msgs, ros-groovy-tf
+Description: A demo 3D cursor interaction application.
