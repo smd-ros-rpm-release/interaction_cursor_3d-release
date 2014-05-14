@@ -1,0 +1,25 @@
+ros-indigo-interaction-cursor-demo (0.0.2-0saucy) saucy; urgency=high
+
+  * add missing run depend
+  * add metapackage
+  * update to use fixed view controller
+  * apply catkin_lint
+  * Contributors: Adam Leeper
+
+ -- Adam Leeper <adamleeper@gmail.com>  Tue, 13 May 2014 07:00:00 -0000
+
+ros-indigo-interaction-cursor-demo (0.0.1-0saucy) saucy; urgency=high
+
+  * renamed demo executable
+  * fixes launch files
+  * fixes install paths
+  * changed maintainer email
+  * adds some launch params
+  * adds demo launch and config files
+  * removed references to cat_user_entity
+  * moves cat_user_entity to interaction_cursor_demo
+  * Contributors: Adam Leeper
+
+ -- Adam Leeper <adamleeper@gmail.com>  Mon, 01 Jul 2013 07:00:00 -0000
+
+
