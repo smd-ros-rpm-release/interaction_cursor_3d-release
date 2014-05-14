@@ -1,0 +1,14 @@
+ros-indigo-interaction-cursor-3d (0.0.2-0trusty) trusty; urgency=high
+
+  * add metapackage
+  * Contributors: Adam Leeper
+
+ -- Adam Leeper <adamleeper@gmail.com>  Tue, 13 May 2014 07:00:00 -0000
+
+ros-indigo-interaction-cursor-3d (0.0.1-0trusty) trusty; urgency=high
+
+
+
+ -- Adam Leeper <adamleeper@gmail.com>  Mon, 01 Jul 2013 07:00:00 -0000
+
+
