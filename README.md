@@ -1,3 +1,26 @@
+## interaction_cursor_3d (hydro) - 0.0.3-1
+
+The packages in the `interaction_cursor_3d` repository were released into the `hydro` distro by running `/usr/bin/bloom-release interaction_cursor_3d -t hydro -r hydro` on `Wed, 21 May 2014 03:19:41 -0000`
+
+These packages were released:
+- `interaction_cursor_3d`
+- `interaction_cursor_demo`
+- `interaction_cursor_msgs`
+- `interaction_cursor_rviz`
+
+Version of package(s) in repository `interaction_cursor_3d`:
+- rosdistro version: `0.0.3-0`
+- old version: `0.0.3-0`
+- new version: `0.0.3-1`
+
+Versions of tools used:
+- bloom version: `0.5.8`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## interaction_cursor_3d (indigo) - 0.0.3-0
 
 The packages in the `interaction_cursor_3d` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo interaction_cursor_3d` on `Thu, 15 May 2014 06:56:34 -0000`
