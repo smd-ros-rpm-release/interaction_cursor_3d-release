@@ -1,0 +1,12 @@
+Source: ros-hydro-interaction-cursor-msgs
+Section: misc
+Priority: extra
+Maintainer: Adam Leeper <adamleeper@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-genmsg, ros-hydro-geometry-msgs, ros-hydro-message-generation, ros-hydro-std-msgs, ros-hydro-visualization-msgs
+Homepage: http://www.ros.org/wiki/interaction_cursor_msgs
+Standards-Version: 3.9.2
+
+Package: ros-hydro-interaction-cursor-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-geometry-msgs, ros-hydro-message-runtime, ros-hydro-std-msgs, ros-hydro-visualization-msgs
+Description: A message API for implementing a 6-DOF interaction cursor. A minimal implementation has one node that handles the user device I/O and another node (e.g. a plugin in Rviz) that uses the messages to interact with a marker.
